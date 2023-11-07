@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+    display: flex;
+}
+h1{
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    
+}
